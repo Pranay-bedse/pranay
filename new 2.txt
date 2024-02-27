@@ -1,0 +1,176 @@
+
+Summary:
+
+Experienced Data Scientist/Data Analyst with 2 years at Capgemini, proficient in Python, SQL, and machine learning techniques across diverse sectors including
+Healthcare, Retail, Manufacturing, and Finance. Skilled in PowerBI and Azure/AWS for scalable solutions.
+
+
+#
+
+============================================================================================================================================================
+Project #1 Recommendation System
+Developed user-to-user and item-to-item recommendation systems for a finance-based project.
+Optimized outcome extraction process from three days to 25-30 minutes, enhancing efficiency significantly.
+Utilized CDF and CCDF visualization techniques to analyze recommendation percentages.
+Implemented reinforcement learning multi-armed bandit algorithm for building a larger system.
+
+Led the creation of recommendation systems tailored for finance domain, employing user-to-user and item-to-item methodologies.
+Implemented optimizations resulting in a remarkable reduction of outcome extraction time from three days to 25-30 minutes.
+Proficiently utilized CDF and CCDF visualizations to gain insights into recommendation distribution patterns.
+Played a pivotal role in deploying reinforcement learning multi-armed bandit algorithm to enhance system scalability and adaptability.
+
+
+
+
+
+
+
+Project #2 Tera Data Migration
+
+Description: This is a retail sector project where I work as a Python developer, assisting the senior developer in creating regression and test automation. 
+Additionally, I oversee the complete data migration process, being responsible for end-to-end migration activities. 
+My tasks include file ordering, validation, deploying tickets, load triggering and monitoring, regression and performance checking, and submitting finalized reports. 
+Furthermore, I also handle testing responsibilities for tickets in cases where testers are unavailable, leveraging my extensive knowledge of SQL.
+
+
+
+Assisted senior developers in creating regression and test automation scripts in Python within the retail sector project.
+Contributed to the development process by implementing automated testing solutions, ensuring code quality and reliability.
+Demonstrated proficiency in Python programming and automation techniques, enhancing efficiency and reducing manual testing efforts.
+
+
+
+Conclustion:
+Python Development & Automation Support: Provided assistance to senior developers in creating regression and test automation solutions, showcasing proficiency in Python programming.
+
+End-to-End Data Migration Management: Spearheaded complete data migration activities, including file ordering, validation, ticket deployment, load triggering, monitoring, and report submission, ensuring seamless migration processes.
+
+Testing Proficiency & SQL Expertise: Demonstrated versatility by undertaking testing responsibilities when required, utilizing robust SQL knowledge to ensure thorough testing and contribute effectively to project success.
+
+Collaborative Team Player: Actively collaborated with team members to streamline processes and meet project objectives, exhibiting adaptability and a proactive approach to resolving challenges in a dynamic retail environment.
+
+
+Conclustion:
+Python Development & Automation:
+
+Supported senior developers in creating regression and test automation solutions using Python, contributing to the efficiency and accuracy of testing processes.
+Proficiently utilized Python programming skills to streamline tasks and enhance project deliverables, showcasing adaptability and technical expertise.
+Demonstrated commitment to quality assurance and automation principles, ensuring robust testing frameworks and efficient code deployment strategies.
+
+
+
+Project #3 Power BI Project
+
+
+
+
+
+
+Project #4 Customer Segmentation
+Description:
+Here we are working in the retail sector, managing data from various retail stores. Our objective is to implement an end-to-end ML pipeline to cluster the data based on 
+recency, frequency, and monetary value (RFM analysis), enabling the marketing team to devise tailored marketing strategies. This involves performing tasks including 
+data ingestion, analysis, cleaning, model creation, evaluation, and deployment.
+
+
+conclusion:
+
+Proficient in implementing end-to-end ML pipelines for retail data analysis, focusing on RFM clustering for targeted marketing strategies.
+Skilled in data management tasks including ingestion, cleaning, and analysis to ensure quality inputs for machine learning models.
+Experienced in model creation, evaluation, and deployment, ensuring seamless integration of ML solutions into operational processes.
+Collaborated effectively with marketing teams to translate data insights into actionable strategies, optimizing marketing performance and ROI
+
+conclusion:
+
+Demonstrated expertise in retail data analytics, employing RFM clustering techniques to segment customer data for targeted marketing campaigns.
+Proven ability to handle diverse data management tasks, from ingestion and cleaning to comprehensive analysis, ensuring accuracy and relevance of insights.
+Proficient in developing, evaluating, and deploying ML models, contributing to enhanced decision-making processes and operational efficiency.
+Successfully collaborated with cross-functional teams, facilitating the translation of data-driven insights into effective marketing strategies, resulting in measurable business growth
+
+conclusion:
+
+Expertise in retail data manipulation and analysis, leveraging RFM clustering techniques to segment customer data and inform targeted marketing approaches.
+Proficient in managing the entire ML pipeline, from data ingestion and preprocessing to model development and deployment, ensuring efficient and accurate analysis.
+Demonstrated ability to design, evaluate, and implement machine learning models tailored to retail requirements, enhancing marketing effectiveness and customer satisfaction.
+Collaborated closely with marketing stakeholders, translating complex data insights into clear and actionable recommendations, driving revenue growth and market competitiveness.
+
+
+Project #5 Heart Disease 
+
+Description: 
+Here we have a health sector dataset where we need to execute an end-to-end machine learning pipeline based on labeled data to identify whether the patient has heart disease or not.
+This process entails tasks such as data ingestion, analysis, cleaning, model creation, evaluation, and deployment.
+
+Conclustion:
+
+Developed and implemented an end-to-end machine learning pipeline for heart disease prediction using a health sector dataset.
+Conducted thorough data analysis and cleaning procedures to ensure data quality and integrity.
+Utilized various machine learning algorithms to create predictive models and evaluated their performance.
+Successfully deployed the trained model for real-time heart disease prediction, contributing to improved healthcare decision-making.
+
+
+Conclustion:
+
+Led the end-to-end implementation of a machine learning pipeline aimed at heart disease identification based on a comprehensive health sector dataset.
+Conducted in-depth data ingestion and preprocessing, ensuring the dataset's suitability for predictive modeling.
+Developed and fine-tuned machine learning models using state-of-the-art algorithms to achieve optimal predictive accuracy.
+Orchestrated the deployment of the predictive model, enabling healthcare professionals to assess the likelihood of heart disease in patients efficiently and accurately.
+
+
+Project #6 Audi car sales
+
+Description:
+In the manufacturing sector, we worked with a car sales dataset to conduct an end-to-end ML pipeline. The objective was to extract important information from the dataset 
+and predict which car manufacturing strategies would enhance business growth and profitability. This involved tasks such as data ingestion, analysis, cleaning, model development, 
+evaluation, and deployment.
+
+
+Conclustion:
+
+Implemented end-to-end ML pipeline for the manufacturing sector using car sales dataset.
+Proficient in data ingestion, analysis, cleaning, and model creation.
+Demonstrated expertise in model evaluation and deployment.
+Leveraged machine learning to optimize business strategies for growth and profitability.
+
+Conclustion:
+Collaborated with cross-functional teams in the manufacturing sector to leverage machine learning for business improvement.
+Conducted thorough data analysis and cleansing to ensure data integrity and reliability.
+Utilized predictive modeling techniques to recommend effective car manufacturing strategies, contributing to significant business growth and profit maximization.
+Played a pivotal role in translating data-driven insights into actionable recommendations, driving strategic decision-making within the organization.
+
+Conclustion:
+Spearheaded successful implementation of ML pipeline resulting in actionable insights for the manufacturing sector.
+Analyzed and processed car sales data to extract crucial business insights.
+Developed predictive models to identify optimal car manufacturing strategies, leading to enhanced business growth and increased profitability.
+Orchestrated seamless deployment of machine learning solutions, facilitating informed decision-making processes.
+
+
+================================================================================================================================================
+
+email:
+
+
+Dear [Recruiter's Name],
+
+I hope this email finds you well. I am writing to express my interest in the Data Scientist position advertised by Tech Mahindra. Attached to this email, you will find my resume outlining my qualifications and experience in detail.
+
+Here is a summary of the information you requested:
+
+Full Name: Bedse Pranay R.
+Phone Number: 8347423261
+Email ID: pranayrajubedse@gmail.com
+Education: B.E
+Skills Worked On: Python, Statistics, SQL, Machine Learning, Deep Learning, PowerBI, Azure/AWS, Gen AI.
+Location Preference: Pune
+Total IT Experience: 2+ years
+Current Organization: Capgemini
+Notice Period/LWD: 3 months
+Current CTC: 6 CTC
+Expected CTC: 12 - 15 CTC
+I am excited about the opportunity to join Tech Mahindra and contribute to your team. I believe that my skills and experience align well with the requirements outlined in the job description. I am particularly drawn to Tech Mahindra's reputation for innovation and excellence in the technology sector.
+
+Thank you for considering my application. I am available for an interview at your earliest convenience and can be reached via email or phone. I look forward to the possibility of discussing how I can contribute to the success of Tech Mahindra.
+
+Warm regards,
+
+Bedse Pranay R.
